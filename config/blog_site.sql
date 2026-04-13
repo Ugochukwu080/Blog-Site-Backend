@@ -53,7 +53,8 @@ CREATE TABLE `admin` (
 INSERT INTO `admin` (`id`, `username`, `password`, `last_login`, `last_login_ip`, `created_at`, `display_name`, `email`, `avatar`, `biography`, `brand_name`, `mission_statement`, `copyright_notice`, `twitter_url`, `github_url`, `linkedin_url`) VALUES
 (2, 'chris', '$2y$12$e9A5bAgjG/8hK0Idp7z/7uEdNKCFLfghCmQ0vpv3DkPDMXFY9IrX.', '2026-04-12 07:03:07', '::1', '2026-04-11 06:05:00', 'Admin', 'theemail@email.com', NULL, NULL, 'Blog Site', 'To Win', 'Copyright Blog-Site 2026', 'https://www.x.com/', 'https://github.com/', 'https://www.linkedin.com/');
 
--- --------------------------------------------------------
+-- ----
+----------------------------------------------------
 
 --
 -- Table structure for table `blogs`
