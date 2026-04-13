@@ -1,0 +1,15 @@
+{
+    "name": "blog/backend",
+    "description": "PHP Backend for Blog Site",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "App\\Config\\": "config/"
+        }
+    },
+    "require": {
+        "firebase/php-jwt": "^7.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
