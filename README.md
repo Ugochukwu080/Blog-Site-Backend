@@ -8,7 +8,7 @@ To run this project locally or on a production server, ensure you have the follo
 
 - **PHP 8.1+**
 - **Composer** (PHP dependency manager)
-- **MySQL ** (Recommended via XAMPP for local development)
+- **MySQL** (Recommended via XAMPP for local development)
 - **Apache/Nginx** with URL rewriting enabled
 
 ## Installation & Setup
